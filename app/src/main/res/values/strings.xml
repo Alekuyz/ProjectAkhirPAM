@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="var1">Aplikasi Jadwal Kuliah</string>
+    <string name="tLogin">Nama</string>
+    <string name="tEmail">Masukkan Nama</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Masukkan Password</string>
+    <string name="tData">Sign-in</string>
+    <string name="txmessage">Daftar Sekarang</string>
+    <string name="txregister">Register</string>
+    <string name="label">Selamat Datang</string>
+    <string name="task">Masukkan Jadwal Kuliah Anda</string>
+    <string name="mtask">Jadwal Kuliah Anda</string>
+    <string name="kuljam">Jam Kuliah Anda</string>
+    <string name="jtask">Masukkan Jenis Task</string>
+    <string name="jjam">Jam Mata Kuliah</string>
+    <string name="ltask">Masukan Lama Task</string>
+    <string name="welcomepeople">Selamat Datang</string>
+    <string name="succesinsert">Berhasil</string>
+    <string name="succestask">Ini Task</string>
+    <string name="succesjenis">Ini Jenis Task</string>
+    <string name="succestime">Ini Lama Task</string>
+    <string name="pleaseinsert">Task Harus Diisi!</string>
+    <string name="submit">Submit</string>
+    <string name="logout">LogOut</string>
+    <string name="sregister">Register</string>
+    <string name="inputnama">Masukkan Nama</string>
+    <string name="inputpassword">Masukkan Password</string>
+    <string name="semail">Email</string>
+    <string name="srepass">Re - Password</string>
+    <string name="Jamkul">Jam Kuliah Anda</string>
+    <string name="Matkul">Mata Kuliah Anda</string>
+    <string name="thisname">username</string>
+    <string name="inputtt">Jadwal Kuliah Anda</string>
+
+</resources>

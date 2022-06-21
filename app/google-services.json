@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581551993587",
+    "project_id": "appjadwalkuliah",
+    "storage_bucket": "appjadwalkuliah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581551993587:android:393c1246d653f77b9a3d86",
+        "android_client_info": {
+          "package_name": "com.example.jadwalkuliahapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581551993587-cmvsoaso6j03n987mq3h656344s38ojt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYpj5v0pbUZO0Up-ZgPqi8hV2tEi2Cmbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581551993587-cmvsoaso6j03n987mq3h656344s38ojt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
